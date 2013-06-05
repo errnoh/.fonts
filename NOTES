@@ -1,0 +1,7 @@
+# update fonts with:
+sudo fc-cache -f -v
+
+# listfonts with:
+fc-list
+
+# graphical ubuntu: change monospaced font in "appearance" menu
