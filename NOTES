@@ -1,3 +1,5 @@
+# ̃$HOME/.fonts
+
 # update fonts with:
 sudo fc-cache -f -v
 
